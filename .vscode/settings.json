@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "/home/mjones/anaconda3/bin/python",
+    "cSpell.words": [
+        "gaierror",
+        "gethostbyname",
+        "psutil",
+        "socket"
+    ]
+}
